@@ -15,7 +15,7 @@ import org.junit.runner.RunWith;
 				 monochrome=true,
 				 glue={"com.test.stepDef"},
 				 tags= {"@UsZip,@UsCity,@GbPostC"},
-				 plugin = {"pretty","html:target/Reports","json:target/cucumber.json"})
+				 plugin = {"pretty","html:target/Reports","json:target/cucumber.json", "junit:target/cucumber-reports/Cucumber.xml"})
 
  
 public class RunnerTest

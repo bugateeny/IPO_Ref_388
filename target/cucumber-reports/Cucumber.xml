@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="9" time="4.636842">
+<testcase classname="API Automation FrameWork Test" name="Validate GET call for Zip Code Details in United States" time="2.461092">
+<system-out><![CDATA[Given User is connected to Host.............................................passed
+And User enters a "us" and "90210" values...................................passed
+Then User should get valid status response..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="API Automation FrameWork Test" name="Validate GET call for Zip Code Details in United States 2" time="0.202134">
+<system-out><![CDATA[Given User is connected to Host.............................................passed
+And User enters a "ca" and "A0A" values.....................................passed
+Then User should get valid status response..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="API Automation FrameWork Test" name="Validate GET call for Zip Code Details in United States 3" time="0.248626">
+<system-out><![CDATA[Given User is connected to Host.............................................passed
+And User enters a "us" and "234" values.....................................passed
+Then User should get valid status response..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="API Automation FrameWork Test" name="Validate GET call for City Details in United States" time="0.267039">
+<system-out><![CDATA[Given User is connected to Host.............................................passed
+And User enters a "us" and "ma" and "belmont" values........................passed
+Then User should get valid status response..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="API Automation FrameWork Test" name="Validate GET call for City Details in United States 2" time="0.258691">
+<system-out><![CDATA[Given User is connected to Host.............................................passed
+And User enters a "us" and "ca" and "belmontt" values.......................passed
+Then User should get valid status response..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="API Automation FrameWork Test" name="Validate GET call for City Details in United States 3" time="0.269757">
+<system-out><![CDATA[Given User is connected to Host.............................................passed
+And User enters a "us" and "ma" and "belmont" values........................passed
+Then User should get valid status response..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="API Automation FrameWork Test" name="Validate GET call for Post-Code Details in Great Britain" time="0.17845">
+<system-out><![CDATA[Given User is connected to Host.............................................passed
+And User enters a "gb" and "WV1" values.....................................passed
+Then User should get valid status response..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="API Automation FrameWork Test" name="Validate GET call for Post-Code Details in Great Britain 2" time="0.451388">
+<system-out><![CDATA[Given User is connected to Host.............................................passed
+And User enters a "gb" and "AB1" values.....................................passed
+Then User should get valid status response..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="API Automation FrameWork Test" name="Validate GET call for Post-Code Details in Great Britain 3" time="0.299665">
+<system-out><![CDATA[Given User is connected to Host.............................................passed
+And User enters a "us" and "90210" values...................................passed
+Then User should get valid status response..................................passed
+]]></system-out>
+</testcase>
+</testsuite>
